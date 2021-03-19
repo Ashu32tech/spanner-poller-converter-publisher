@@ -4,7 +4,7 @@ spring:
  profiles.active: dev
  cloud:
    gcp:
-     project-id: gcp-practice-project-307011
+     project-id: silver-approach-307010
      # credentials.location: file:C:\\Users\\ashu3\\AppData\\Roaming\\gcloud\\application_default_credentials.json
      spanner:
        instance-id: instance-1
@@ -15,7 +15,7 @@ spring:
 #  table:
 #   name: POLLER_COMMIT_TIMESTAMPS
 project:
- name: gcp-practice-project-307011
+ name: silver-approach-307010
 primary:
  table:
    name: pnr

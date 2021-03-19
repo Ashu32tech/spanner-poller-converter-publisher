@@ -1,7 +1,7 @@
 FROM adoptopenjdk/openjdk11:alpine-jre
 
 # maintainer info
-LABEL maintainer="donthu.babu@infogain.com"
+LABEL maintainer="ashutosh1.singh@infogain.com"
 
 # add volume pointing to /tmp
 VOLUME /tmp
